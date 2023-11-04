@@ -95,3 +95,30 @@ git status
 git remote add origin https://github.com/rlambat02/rupesh.git
 git branch -M main
 git push -u origin main
+git branch
+git log --oneline
+git commit -m "all chnages updated"
+git status 
+git add .
+git commit -m "all"
+git log --oneline
+git pull
+git push origin main
+pwd
+ls -lrt
+touch latest.log
+git add .
+git commit -m "latest"
+git push origin main
+ls -lrt
+git rm ll.log 
+ls -lrt
+git rm README.md latest.log java.log 
+git status 
+ls -lrt
+git add .
+git commit -m "deleted files"
+git push origin main
+git pull
+git status
+ls -lrt
