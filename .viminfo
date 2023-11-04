@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1698557483,,"wq"
+|2,0,1698591191,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,27 @@
 # Registers:
 
 # File marks:
-'0  1  32  ~/devops123/5.java
-|4,48,1,32,1698557483,"~/devops123/5.java"
+'0  1  31  ~/Rupesh/ll.log
+|4,48,1,31,1698591191,"~/Rupesh/ll.log"
+'1  1  32  ~/devops123/5.java
+|4,49,1,32,1698557483,"~/devops123/5.java"
 
 # Jumplist (newest first):
+-'  1  31  ~/Rupesh/ll.log
+|4,39,1,31,1698591191,"~/Rupesh/ll.log"
+-'  1  32  ~/devops123/5.java
+|4,39,1,32,1698557483,"~/devops123/5.java"
 -'  1  32  ~/devops123/5.java
 |4,39,1,32,1698557483,"~/devops123/5.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/Rupesh/ll.log
+	*	1698591189	0
+	"	1	31
+	^	1	32
+	.	1	30
+	+	1	30
 
 > ~/devops123/5.java
 	*	1698557482	0
